@@ -1,0 +1,10 @@
+.idea/
+
+bin/
+local/
+share/
+lib/
+include/
+
+tornado.ioloop
+tornado.web
